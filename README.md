@@ -34,7 +34,7 @@ a,d increases, decreases (resp) lpoly and re-calls quadfit_profile
 *output = returns a populated structure with X,Y position of peak/troughs and radius of curvatures for all
 profiles read by buckle_data_read
 
-#Misc
+# Misc
 
 data plotting: plots inter-peak distance versus radius of curvature versus, ratio of peak/trough curvature, etc.
 
